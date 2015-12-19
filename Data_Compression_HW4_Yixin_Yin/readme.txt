@@ -1,0 +1,3 @@
+I implement the entropy coding for this assignment, so I know the length of the real bitstream. It makes easier for me to calculate the compression ratio. I also write a simple version without entropy coding but i don’t know how to calculate the compression ratio accurately in this way because we don’t do Huffman coding in this. So the compression ratio and snr are calculated by the Entropy Version in my submission.
+
+Thanks.
